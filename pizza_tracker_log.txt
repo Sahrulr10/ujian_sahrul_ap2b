@@ -1,0 +1,36 @@
+--- Pizza Tracker Log Started: 2025-06-28 08:48:01.862709 ---
+[2025-06-28 08:48:01.863726] [MainClient] Memulai 5 pelacakan pesanan pizza secara concurrent.
+[2025-06-28 08:48:01.915433] [MainClient] Memulai 5 pelacakan pesanan pizza secara concurrent.
+[2025-06-28 08:48:01.967917] [MainClient] Memulai 5 pelacakan pesanan pizza secara concurrent.
+[2025-06-28 08:48:02.020615] [MainClient] Memulai 5 pelacakan pesanan pizza secara concurrent.
+[2025-06-28 08:48:02.074203] [MainClient] Memulai 5 pelacakan pesanan pizza secara concurrent.
+[2025-06-28 08:48:02.127657] [Worker-0] Memulai pelacakan untuk ID Pesanan: ORD-101
+[2025-06-28 08:48:02.130650] [Worker-1] Memulai pelacakan untuk ID Pesanan: ORD-103
+[2025-06-28 08:48:02.136232] [Worker-2] Memulai pelacakan untuk ID Pesanan: ORD-999
+[2025-06-28 08:48:02.138232] [Worker-3] Memulai pelacakan untuk ID Pesanan: ORD-102
+[2025-06-28 08:48:02.139230] [Worker-4] Memulai pelacakan untuk ID Pesanan: ORD-105
+[2025-06-28 08:48:02.182066] [Worker-0] Memulai pelacakan untuk ID Pesanan: ORD-101
+[2025-06-28 08:48:02.186416] [Worker-1] Memulai pelacakan untuk ID Pesanan: ORD-103
+[2025-06-28 08:48:02.188457] [Worker-2] Memulai pelacakan untuk ID Pesanan: ORD-999
+[2025-06-28 08:48:02.190646] [Worker-3] Memulai pelacakan untuk ID Pesanan: ORD-102
+[2025-06-28 08:48:02.192434] [Worker-4] Memulai pelacakan untuk ID Pesanan: ORD-105
+[2025-06-28 08:48:02.235296] [Worker-0] Memulai pelacakan untuk ID Pesanan: ORD-101
+[2025-06-28 08:48:02.239097] [Worker-1] Memulai pelacakan untuk ID Pesanan: ORD-103
+[2025-06-28 08:48:02.241083] [Worker-2] Memulai pelacakan untuk ID Pesanan: ORD-999
+[2025-06-28 08:48:02.242829] [Worker-3] Memulai pelacakan untuk ID Pesanan: ORD-102
+[2025-06-28 08:48:02.245395] [Worker-4] Memulai pelacakan untuk ID Pesanan: ORD-105
+[2025-06-28 08:48:02.288114] [Worker-0] Memulai pelacakan untuk ID Pesanan: ORD-101
+[2025-06-28 08:48:02.291442] [Worker-1] Memulai pelacakan untuk ID Pesanan: ORD-103
+[2025-06-28 08:48:02.293772] [Worker-2] Memulai pelacakan untuk ID Pesanan: ORD-999
+[2025-06-28 08:48:02.295744] [Worker-3] Memulai pelacakan untuk ID Pesanan: ORD-102
+[2025-06-28 08:48:02.297873] [Worker-4] Memulai pelacakan untuk ID Pesanan: ORD-105
+[2025-06-28 08:48:02.340561] [Worker-0] Memulai pelacakan untuk ID Pesanan: ORD-101
+[2025-06-28 08:48:02.343773] [Worker-1] Memulai pelacakan untuk ID Pesanan: ORD-103
+[2025-06-28 08:48:02.346306] [Worker-2] Memulai pelacakan untuk ID Pesanan: ORD-999
+[2025-06-28 08:48:02.347911] [Worker-3] Memulai pelacakan untuk ID Pesanan: ORD-102
+[2025-06-28 08:48:02.350505] [Worker-4] Memulai pelacakan untuk ID Pesanan: ORD-105
+[2025-06-28 08:48:03.239418] [MainClient] Semua pelacakan pesanan selesai dalam 1.11 detik.
+[2025-06-28 08:48:03.291254] [MainClient] Semua pelacakan pesanan selesai dalam 1.11 detik.
+[2025-06-28 08:48:03.343126] [MainClient] Semua pelacakan pesanan selesai dalam 1.11 detik.
+[2025-06-28 08:48:03.397327] [MainClient] Semua pelacakan pesanan selesai dalam 1.11 detik.
+[2025-06-28 08:48:03.449732] [MainClient] Semua pelacakan pesanan selesai dalam 1.11 detik.
